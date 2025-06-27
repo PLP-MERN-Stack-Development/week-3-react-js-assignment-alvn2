@@ -41,7 +41,7 @@ npm run dev
 [Live Demo](https://taskmanager-ten-pink.vercel.app/)
 
 ## 🖼️ Screenshots
-![DARK MODE](image.png)
+![DARK MODE](screenshots/image.png)
 ![LIGHT MODE](<screenshots/Screenshot from 2025-06-27 12-07-46.png>)
 
 ## 📄 License
